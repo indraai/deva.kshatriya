@@ -1,5 +1,5 @@
 {
-  "id": "c3bdbc47-b696-497f-b7ac-d8c9e2b92853",
+  "id": "89d6ca88-58d2-414a-a43d-5500f76b566",
   "name": "@indra.ai/deva.kshatriya",
   "version": "0.0.3",
   "author": "Quinn Michaels",
@@ -32,7 +32,7 @@
   },
   "data": {
     "agent": {
-      "id": "0aeb0b1d-8fbd-4304-85eb-67a7d1a10ceb",
+      "id": "92e10045-a25f-4c5a-a694-8cb0d013e262",
       "key": "kshatriya",
       "prompt": {
         "emoji": "👷",
