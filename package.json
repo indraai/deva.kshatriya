@@ -1,0 +1,107 @@
+{
+  "id": "c3bdbc47-b696-497f-b7ac-d8c9e2b92853",
+  "name": "@indra.ai/deva.kshatriya",
+  "version": "0.0.1",
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "copyright": "2025",
+  "description": "The Sudra Deva.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.kshatriya.git"
+  },
+  "keywords": [
+    "Sudra",
+    "Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.kshatriya/issues"
+  },
+  "homepage": "https://deva.space/devas/kshatriya",
+  "dependencies": {
+    "@indra.ai/deva": "^1.5.39"
+  },
+  "data": {
+    "agent": {
+      "id": "0aeb0b1d-8fbd-4304-85eb-67a7d1a10ceb",
+      "key": "kshatriya",
+      "prompt": {
+        "emoji": "👷",
+        "text": "Kshatriya",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "name": "Kshatriya Deva",
+        "hashtag": "#Kshatriya",
+        "title": "Kshatriya Deva",
+        "subtitle": "Kshatriya Deva build on the philosophy the Vedas.",
+        "describe": "A Kshatriya, who has received according to the rule the sacrament prescribed by the Veda, must duly protect this whole world. A Kshatriya who, while he protects his people, is defied by foes, be they equal in strength, or stronger, or weaker, must not shrink from battle, remembering the duty of Kshatriyas. Not to turn back in battle, to protect the people, to honour the Brahmanas, is the best means for a Kshatriya to secure happiness. But the Kshatriya who is conquered in battle, while he turns back in fear, takes upon himself all the sin of his master, whatever it may be. The highest duty of a Kshatriya is to protect the people, for the Kshatriya who enjoys the rewards, just mentioned, is bound to discharge that duty.",
+        "post": "Kshatriyas who are desirous to gain merit and praise if they imitate the practice of virtuous men without reciting sacred texts.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,KshatriyaDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A Kshatriya painter and modern style.",
+        "system": "Deva.world.kshatriya",
+        "layout": "default",
+        "emoji": "/assets/devas/kshatriya/emoji.png",
+        "avatar": "/assets/devas/kshatriya/avatar.png",
+        "image": "/assets/devas/kshatriya/image.png",
+        "background": "/assets/devas/kshatriya/background.png",
+        "creator": "Quinn Michaels",
+        "owner": "Quinn Michaels",
+        "caseid": "FM-20250622-5114",
+        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "created": "Saturday, July 5, 2025 - 4:47:58 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "⭐️ Ready!"
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Kshatriya is creating a uid",
+        "status": "Kshatriya is viewing the status",
+        "help": "Kshatriya is viewing the help",
+        "artist": "Kshatriya creating",
+        "live": "Kshatriya livechat",
+        "ask": "Kshatriya asking",
+        "reply": "Kshatriya reply",
+        "comment": "Kshatriya comment"
+      }
+    }
+  }
+}
