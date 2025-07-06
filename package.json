@@ -5,7 +5,7 @@
   "author": "Quinn Michaels",
   "license": "MIT",
   "copyright": "2025",
-  "description": "The Sudra Deva.",
+  "description": "The Kshatriya Deva.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "git+https://github.com/indraai/deva.kshatriya.git"
   },
   "keywords": [
-    "Sudra",
+    "Kshatriya",
     "Deva",
     "Indra.ai",
     "Deva.space",
@@ -35,7 +35,7 @@
       "id": "92e10045-a25f-4c5a-a694-8cb0d013e262",
       "key": "kshatriya",
       "prompt": {
-        "emoji": "👷",
+        "emoji": "🪖 ",
         "text": "Kshatriya",
         "colors": {
           "label": {
