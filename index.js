@@ -1,4 +1,7 @@
-// Copyright (c)2025 Quinn Michaels. All Rights reserved.
+"use strict";
+// ©2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:15366185454152384163 LICENSE.md
 // Kshatriya Deva
 
 import Deva from '@indra.ai/deva';
@@ -38,6 +41,17 @@ const KSHATRIYA = new Deva({
   devas: {},
   func: {},
   methods: {},
+  async onInit(data, resolve) {
+    // check license
+    const {personal} = this.license(); // get the license config
+    this.vars.license = await this.methods.license_check(personal, pkg.VLA);
+    if (this.vars.license) {
+      return this.start(data, resolve); // start load if license valid
+    }
+    else {       
+      return  this.stop(data, resolve); // stop load if license is invalid.
+    }
+  },
   onReady(data, resolve) {
     this.prompt(this.vars.messages.ready);
     return resolve(data);

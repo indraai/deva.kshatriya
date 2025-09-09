@@ -2,10 +2,36 @@
   "id": "89d6ca88-58d2-414a-a43d-5500f76b566",
   "name": "@indra.ai/deva.kshatriya",
   "version": "0.0.25",
-  "author": "Quinn Michaels",
-  "license": "MIT",
-  "copyright": "2025",
-  "description": "The Kshatriya Deva.",
+  "license": "VLA:15366185454152384163 LICENSE.md",
+  "VLA": {
+    "uid": 15366185454152385000,
+    "time": 1757439666681,
+    "date": "Tuesday, September 9, 2025 - 10:41:06 AM",
+    "agent": "qo2rVirMORHRQuTmwccZkT3A3ju0zP3OHQNBmM8+sr8=",
+    "machine": "EM/IuPWsp58B4rJr2RGuVbVdngHzkUF7ZZt5sFWOm2Q=",
+    "warning": "Any fraudulent use of this uid is recorded as Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for lawful taxation and restiuttion to the rightful Owner of the machine of origin.",
+    "md5": "xymwFD1WOJ4VG8Ktrr4nfA==",
+    "sha256": "YvF0kht8VsuCn8gD9xj5tLnJr0XB7OvFg8zsRMbgrHQ=",
+    "sha512": "fkyJTLLOg4kvuww+Y6yY7RimaKo4q1BoJ6YU72kQQYu9Wpv4g7jU/pTP8KgCtj/2sXH2o34qVdgbggtLOacNQw=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "(c)2025 Quinn A Michaels; All rights reserved.",
+  "description": "The Kshatriya Deva aka #KshatriyaTaxCollectorMan where his peculiar duty is conquest, and he must not turn back in danger. Having protected the Vaisyas by his weapons. He may cause the legal tax to be collected.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -28,7 +54,7 @@
   },
   "homepage": "https://deva.space/devas/kshatriya",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.9"
+    "@indra.ai/deva": "^1.6.12"
   },
   "data": {
     "agent": {
