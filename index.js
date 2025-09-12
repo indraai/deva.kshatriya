@@ -41,17 +41,6 @@ const KSHATRIYA = new Deva({
   devas: {},
   func: {},
   methods: {},
-  async onInit(data, resolve) {
-    // check license
-    const {personal} = this.license(); // get the license config
-    this.vars.license = await this.methods.license_check(personal, pkg.VLA);
-    if (this.vars.license) {
-      return this.start(data, resolve); // start load if license valid
-    }
-    else {       
-      return  this.stop(data, resolve); // stop load if license is invalid.
-    }
-  },
   onReady(data, resolve) {
     this.prompt(this.vars.messages.ready);
     return resolve(data);
