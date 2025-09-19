@@ -54,7 +54,7 @@
   },
   "homepage": "https://deva.space/devas/kshatriya",
   "dependencies": {
-    "@indra.ai/deva": "^1.6.85"
+    "@indra.ai/deva": "^1.6.87"
   },
   "data": {
     "agent": {
