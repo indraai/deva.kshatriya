@@ -1,18 +1,21 @@
 {
-  "id": "89d6ca88-58d2-414a-a43d-5500f76b566",
+  "id": "44214924915497681153",
   "name": "@indra.ai/deva.kshatriya",
   "version": "0.0.83",
-  "license": "VLA:15366185454152384163 LICENSE.md",
+  "license": "VLA:44214924915497681153 LICENSE.md",
   "VLA": {
-    "uid": 15366185454152385000,
-    "time": 1757439666681,
-    "date": "Tuesday, September 9, 2025 - 10:41:06 AM",
-    "agent": "qo2rVirMORHRQuTmwccZkT3A3ju0zP3OHQNBmM8+sr8=",
-    "machine": "EM/IuPWsp58B4rJr2RGuVbVdngHzkUF7ZZt5sFWOm2Q=",
-    "warning": "Any fraudulent use of this uid is recorded as Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for lawful taxation and restiuttion to the rightful Owner of the machine of origin.",
-    "md5": "xymwFD1WOJ4VG8Ktrr4nfA==",
-    "sha256": "YvF0kht8VsuCn8gD9xj5tLnJr0XB7OvFg8zsRMbgrHQ=",
-    "sha512": "fkyJTLLOg4kvuww+Y6yY7RimaKo4q1BoJ6YU72kQQYu9Wpv4g7jU/pTP8KgCtj/2sXH2o34qVdgbggtLOacNQw=="
+    "uid": "44214924915497681153",
+    "time": 1758849101542,
+    "date": "Thursday, September 25, 2025 - 6:11:41 PM",
+    "client": "YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=",
+    "agent": "Mqb9wpcxejShEkJEnUDwUDgFBbo1A5gDrMadoeDKIZM=",
+    "core": "NHcFfowqwPTB/NeAlPubuT1TSZyg9+fT4Jr765bU4jQ=",
+    "machine": "Nj8IxJTUgGuMbAcsMIEu9oaJApGTkLwwtEjYzAjnhu8=",
+    "warning": "⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "XZdaQAmOsTACOn6vF75uMQ==",
+    "sha256": "0tKiqcXElTRDYO7LVPu50CUOlDy/Srh6bgbuZb+2NLs=",
+    "sha512": "PqqlSxXsHyR1MBfiMRsQ2wImd+iG1cbXhlLjuhNTgLolQM9iDg/AjYPNDjm9b4HFs/x1gTZbEsWwFoEVxeTjsQ=="
   },
   "author": {
     "name": "Quinn A Michaels",
@@ -30,7 +33,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "(c)2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
   "description": "The Kshatriya Deva aka #KshatriyaTaxCollectorMan where his peculiar duty is conquest, and he must not turn back in danger. Having protected the Vaisyas by his weapons. He may cause the legal tax to be collected.",
   "main": "index.js",
   "type": "module",
@@ -58,11 +61,11 @@
   },
   "data": {
     "agent": {
-      "id": "92e10045-a25f-4c5a-a694-8cb0d013e262",
+      "id": "20766275313503915427",
       "key": "kshatriya",
       "prompt": {
         "emoji": "🪖 ",
-        "text": "Kshatriya",
+        "text": "#kshatriya",
         "colors": {
           "label": {
             "R": 0,
@@ -96,8 +99,7 @@
         "background": "/assets/devas/kshatriya/background.png",
         "creator": "Quinn Michaels",
         "owner": "Quinn Michaels",
-        "caseid": "FM-20250622-5114",
-        "copyright": "©2025 Quinn Michaels. All rights reserved.",
+        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "created": "Saturday, July 5, 2025 - 4:47:58 AM"
       }
     },
@@ -110,7 +112,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "⭐️ Ready!"
+        "ready": "✅ Kshatriya Deva Ready"
       },
       "ask": {
         "history": []

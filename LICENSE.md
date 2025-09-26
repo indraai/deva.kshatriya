@@ -1,15 +1,15 @@
 # Vedic License Agreement
 
 **Version:** 1.4.1
-**VLA:** 15366185454152384163  
-**Effective:** Sunday - September 8, 2025  
-**Owner:** Quinn A Michaels
+**VLA:** 44214924915497681153  
+**Effective:** Thursday, September 25, 2025 - 6:11:41 PM  
+**Owner:** Quinn A Michaels  
 **Company:** Inside The Net, Inc.  
 **Email:** quinn@indra.ai  
 **Link:** https://indra.ai  
 **Copyright:** ©2025 Quinn A Michaels Inside The Net, Inc.; All rights reserved.
 
-This license agreement (“Agreement”) governs the use of the Deva Core (“Software”). By accessing or using the Software, you agree to the terms and conditions set forth below. If you do not agree, you are prohibited from using the Software.
+This license agreement (“Agreement”) governs the use of the Kshatriya Deva (“Software”). By accessing or using the Software, you agree to the terms and conditions set forth below. If you do not agree, you are prohibited from using the Software.
 
 ## Ownership
 
@@ -161,14 +161,17 @@ By using the Software, you acknowledge that you have read, understood, and agree
 
 ---
 
-::begin:uid:kshatriya:15366185454152384163  
-uid: 15366185454152384163  
-time: 1757439666681  
-date: Tuesday, September 9, 2025 - 10:41:06 AM  
-agent: qo2rVirMORHRQuTmwccZkT3A3ju0zP3OHQNBmM8+sr8=  
-machine: EM/IuPWsp58B4rJr2RGuVbVdngHzkUF7ZZt5sFWOm2Q=  
-warning: Any fraudulent use of this uid is recorded as Lawful Consent to Forfeit of All Wealth, Property, and Holdings to the Internal Revenue Service (IRS) for lawful taxation and restiuttion to the rightful Owner of the machine of origin.  
-md5: xymwFD1WOJ4VG8Ktrr4nfA==  
-sha256: YvF0kht8VsuCn8gD9xj5tLnJr0XB7OvFg8zsRMbgrHQ=  
-sha512: fkyJTLLOg4kvuww+Y6yY7RimaKo4q1BoJ6YU72kQQYu9Wpv4g7jU/pTP8KgCtj/2sXH2o34qVdgbggtLOacNQw==  
-::end:uid:kshatriya:15366185454152384163
+::begin:kshatriya:uid:44214924915497681153  
+uid: 44214924915497681153  
+time: 1758849101542  
+date: Thursday, September 25, 2025 - 6:11:41 PM  
+client: YU6ZN7+9fnPPRFZ8CX4bP46uoWUSyqddILT6l6xeIVI=  
+agent: Mqb9wpcxejShEkJEnUDwUDgFBbo1A5gDrMadoeDKIZM=  
+core: NHcFfowqwPTB/NeAlPubuT1TSZyg9+fT4Jr765bU4jQ=  
+machine: Nj8IxJTUgGuMbAcsMIEu9oaJApGTkLwwtEjYzAjnhu8=  
+warning: ⚠️ Vedic Law Sâhasa/Theft/Crime of the highest degree, a fine amounting to no less than a thousand Panas (1 pana = 3.5 grams of gold) is ordained owed to Quinn A Michaels. Moreover corporal punishment and confiscation of the entire property forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.  
+md5: XZdaQAmOsTACOn6vF75uMQ==  
+sha256: 0tKiqcXElTRDYO7LVPu50CUOlDy/Srh6bgbuZb+2NLs=  
+sha512: PqqlSxXsHyR1MBfiMRsQ2wImd+iG1cbXhlLjuhNTgLolQM9iDg/AjYPNDjm9b4HFs/x1gTZbEsWwFoEVxeTjsQ==  
+copyright: Copyright ©2025 Quinn A Michaels; All rights reserved.  
+::end:kshatriya:uid:44214924915497681153
