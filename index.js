@@ -2,6 +2,7 @@
 // Copyright ©2025 Quinn A Michaels; All rights reserved. 
 // Legal Signature Required For Lawful Use.
 // Distributed under VLA:44214924915497681153 LICENSE.md
+
 // Kshatriya Deva
 
 import Deva from '@indra.ai/deva';
