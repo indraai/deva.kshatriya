@@ -53,14 +53,16 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
-    "Inside The Net, Inc."
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
   ],
   "bugs": {
     "url": "https://github.com/indraai/deva.kshatriya/issues"
   },
-  "homepage": "https://deva.space/devas/kshatriya",
+  "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.16.2"
+    "@indra.ai/deva": "^1.17.0"
   },
   "data": {
     "agent": {
@@ -96,12 +98,13 @@
         "style": "A Kshatriya painter and modern style.",
         "system": "Deva.world.kshatriya",
         "layout": "default",
-        "emoji": "/assets/devas/kshatriya/emoji.png",
-        "avatar": "/assets/devas/kshatriya/avatar.png",
-        "image": "/assets/devas/kshatriya/image.png",
-        "background": "/assets/devas/kshatriya/background.png",
-        "creator": "Quinn Michaels",
-        "owner": "Quinn Michaels",
+        "emoji": "/devas/kshatriya/emoji.png",
+        "avatar": "/devas/kshatriya/avatar.png",
+        "image": "/devas/kshatriya/image.png",
+        "background": "/devas/kshatriya/background.png",
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
+        "uid_warning": "A Kshatriya, according to the rule prescribed by the Veda, must duly protect this whole world. While he protects his people, is defied by foes, be they equal in strength, or stronger, or weaker, must not shrink from battle, remembering the duty of Kshatriyas. Not to turn back in battle, to protect his People, to honour the Brahmanas, is the best means for a Kshatriya to secure happiness.",
         "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "created": "Saturday, July 5, 2025 - 4:47:58 AM"
       }
