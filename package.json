@@ -62,7 +62,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.23.2"
+    "@indra.ai/deva": "^1.24.0"
   },
   "data": {
     "agent": {
@@ -104,7 +104,7 @@
         "background": "/devas/kshatriya/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "uid_warning": "A Kshatriya, according to the rule prescribed by the Veda, must duly protect this whole world. While he protects his people, is defied by foes, be they equal in strength, or stronger, or weaker, must not shrink from battle, remembering the duty of Kshatriyas. Not to turn back in battle, to protect his People, to honour the Brahmanas, is the best means for a Kshatriya to secure happiness.",
+        "warning": "A Kshatriya, according to the rule prescribed by the Veda, must duly protect this whole world. While he protects his people, is defied by foes, be they equal in strength, or stronger, or weaker, must not shrink from battle, remembering the duty of Kshatriyas. Not to turn back in battle, to protect his People, to honour the Brahmana, is the best means for a Kshatriya to secure happiness. Kshatriya who knows the good and the evil which will result from his acts in the future, is quick in forming resolutions for the present, and understands the consequences of past actions, will not be conquered.",
         "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
         "created": "Saturday, July 5, 2025 - 4:47:58 AM"
       }
